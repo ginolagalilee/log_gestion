@@ -1,0 +1,122 @@
+[
+    {
+        "nom": "Salade de tomates et feta",
+        "ingredient": "Tomates, feta, olives noires, concombre, oignon rouge, huile d'olive, vinaigre balsamique, sel, poivre",
+        "recette": "Couper les tomates, le concombre, et l'oignon en rondelles. Mélanger avec la feta émiettée, les olives, et assaisonner avec l'huile d'olive, le vinaigre, le sel et le poivre.",
+        "categorie": "Entrée"
+    },
+    {
+        "nom": "Velouté de courgettes",
+        "ingredient": "Courgettes, oignon, bouillon de légumes, crème fraîche, sel, poivre",
+        "recette": "Faire revenir l'oignon émincé, ajouter les courgettes coupées, puis le bouillon de légumes. Cuire jusqu’à tendreté, mixer, ajouter la crème, saler et poivrer. Servir chaud.",
+        "categorie": "Entrée"
+    },
+    {
+        "nom": "Poulet rôti au miel",
+        "ingredient": "Poulet, miel, moutarde, ail, herbes de Provence, huile d'olive, sel, poivre",
+        "recette": "Mélanger le miel, la moutarde, l’ail écrasé, et les herbes. Enduire le poulet de cette marinade et faire rôtir au four à 180°C pendant 1 heure en arrosant régulièrement.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Lasagnes à la bolognaise",
+        "ingredient": "Lasagnes, viande hachée, tomates, oignon, ail, béchamel, fromage râpé, huile d'olive, sel, poivre",
+        "recette": "Faire revenir l'oignon et l'ail dans l'huile d'olive. Ajouter la viande et cuire. Incorporer les tomates, assaisonner et laisser mijoter. Monter les lasagnes avec la béchamel et le fromage.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Curry de légumes",
+        "ingredient": "Pommes de terre, carottes, courgettes, pois chiches, lait de coco, pâte de curry, épices (curcuma, cumin), huile d'olive, sel, poivre",
+        "recette": "Faire revenir les légumes dans l'huile, ajouter la pâte de curry et les épices, verser le lait de coco et cuire jusqu’à tendreté des légumes. Servir avec du riz basmati.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Tarte aux pommes",
+        "ingredient": "Pâte brisée, pommes, sucre, beurre, cannelle",
+        "recette": "Disposer les pommes pelées et coupées sur la pâte brisée, saupoudrer de sucre et de cannelle, ajouter des noisettes de beurre et cuire au four à 180°C pendant 40 minutes.",
+        "categorie": "Dessert"
+    },
+    {
+        "nom": "Crêpes au chocolat",
+        "ingredient": "Pâte à crêpes (farine, œufs, lait, sucre), chocolat noir, beurre",
+        "recette": "Faire cuire les crêpes, puis les garnir de chocolat fondu et plier ou rouler. Servir avec du sucre glace ou des fruits frais.",
+        "categorie": "Dessert"
+    },
+    {
+        "nom": "Mousse au chocolat",
+        "ingredient": "Chocolat noir, œufs, sucre, crème liquide",
+        "recette": "Faire fondre le chocolat et le laisser refroidir. Battre les jaunes d’œufs avec le sucre, puis ajouter le chocolat. Monter la crème et l'incorporer délicatement. Réfrigérer avant de servir.",
+        "categorie": "Dessert"
+    },
+    {
+        "nom": "Soupe froide de concombre",
+        "ingredient": "Concombre, yaourt nature, aneth, citron, ail, sel, poivre",
+        "recette": "Mixer le concombre, le yaourt, l’aneth, le citron et l'ail. Assaisonner avec du sel et du poivre. Réfrigérer avant de servir frais.",
+        "categorie": "Entrée"
+    },
+    {
+        "nom": "Carpaccio de saumon",
+        "ingredient": "Saumon frais, citron, huile d'olive, aneth, sel, poivre, roquette",
+        "recette": "Couper le saumon en fines tranches, arroser de citron et d'huile d'olive, assaisonner avec du sel, du poivre et de l'aneth. Servir avec de la roquette.",
+        "categorie": "Entrée"
+    },
+    {
+        "nom": "Paella aux fruits de mer",
+        "ingredient": "Riz, crevettes, moules, calamars, poivrons, tomates, ail, oignon, safran, bouillon de poisson, huile d'olive, sel, poivre",
+        "recette": "Faire revenir les fruits de mer dans l'huile, ajouter les légumes et le riz, verser le bouillon et le safran, puis cuire jusqu'à absorption du liquide.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Risotto aux champignons",
+        "ingredient": "Riz arborio, champignons, bouillon de légumes, oignon, ail, parmesan, beurre, huile d'olive, sel, poivre",
+        "recette": "Faire revenir l'oignon et l'ail, ajouter les champignons, puis le riz. Ajouter le bouillon progressivement en remuant jusqu’à cuisson. Terminer avec le beurre et le parmesan râpé.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Tacos au poulet épicé",
+        "ingredient": "Blancs de poulet, tortillas, épices (paprika, cumin, piment), avocat, tomates, laitue, fromage râpé, crème aigre",
+        "recette": "Assaisonner le poulet avec les épices et le cuire. Garnir les tortillas avec le poulet, l’avocat, les tomates, la laitue, et le fromage. Ajouter un peu de crème aigre.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Quiche lorraine",
+        "ingredient": "Pâte brisée, lardons, œufs, crème fraîche, lait, fromage râpé, sel, poivre",
+        "recette": "Disposer les lardons sur la pâte, mélanger les œufs, la crème et le lait, verser sur la pâte et cuire au four à 180°C pendant 30 minutes.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Choucroute garnie",
+        "ingredient": "Chou, saucisses, poitrine de porc, lard, pommes de terre, vin blanc, graines de carvi, sel, poivre",
+        "recette": "Cuire la choucroute avec le vin et les graines de carvi. Ajouter la viande et les pommes de terre, puis cuire lentement jusqu'à ce tout soit bien cuit.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Tiramisu",
+        "ingredient": "Mascarpone, œufs, sucre, café fort, biscuits à la cuillère, cacao en poudre",
+        "recette": "Tremper les biscuits dans le café, alterner des couches de biscuits et de mascarpone, puis saupoudrer de cacao. Réfrigérer avant de servir.",
+        "categorie": "Dessert"
+    },
+    {
+        "nom": "Sorbet à la framboise",
+        "ingredient": "Framboises, sucre, eau, jus de citron",
+        "recette": "Mixer les framboises avec le sucre et le jus de citron, ajouter de l'eau, puis congeler le mélange en remuant toutes les heures.",
+        "categorie": "Dessert"
+    },
+    {
+        "nom": "Panna cotta à la vanille",
+        "ingredient": "Crème liquide, sucre, gélatine, lait, vanille",
+        "recette": "Faire chauffer la crème et le lait avec la vanille et le sucre. Ajouter la gélatine et mélanger. Verser dans des ramequins et réfrigérer pendant au moins 4 heures avant de servir.",
+        "categorie": "Dessert"
+    },
+    {
+        "nom": "Boulettes de viande à la tomate",
+        "ingredient": "Viande hachée, œufs, pain rassis, lait, ail, oignon, tomates, sauce tomate, huile d'olive, basilic, sel, poivre",
+        "recette": "Mélanger la viande avec l'œuf, le pain trempé dans le lait, l'ail et l'oignon. Former des boulettes, les cuire dans l'huile, puis les ajouter à la sauce tomate.",
+        "categorie": "Plat principal"
+    },
+    {
+        "nom": "Chili con carne",
+        "ingredient": "Viande hachée, haricots rouges, tomates, oignon, ail, piment, cumin, paprika, bouillon de viande, huile d'olive, sel, poivre",
+        "recette": "Faire revenir l'oignon et l'ail, ajouter la viande et cuire. Ajouter les épices, les tomates et le bouillon, laisser mijoter avec les haricots pendant 30 minutes.",
+        "categorie": "Plat principal"
+    }
+]
